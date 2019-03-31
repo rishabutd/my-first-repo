@@ -8,9 +8,9 @@ I live in the city of Agra, in the state of Uttar Pradesh, in India.
 
 Three of my favourite sports are:
 
--Tennis
--Cricket
--Lacrosse
+- Tennis
+- Cricket
+- Lacrosse
 
 ### Food
 
